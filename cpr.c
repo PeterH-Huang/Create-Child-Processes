@@ -1,12 +1,6 @@
 /* ------------------------------------------------ ------------
 File: cpr.c
 
-Last name:Huang
-Student number:300021511
-
-Last name: Wang
-Student number: 300028892
-
 Description: This program contains the code for creation
  of a child process and attach a pipe to it.
 	 The child will send messages through the pipe
